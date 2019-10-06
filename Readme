@@ -1,0 +1,20 @@
+Module 8 files
+The respository should start out containing the following files (these will be edited by you during module):
+sumsqrt.c
+pi.c
+filter.py
+ising_np.py
+
+Before uploading the completed module to your GitHub account, it should contain the following additional (or completed) files:
+
+euler1.py
+sumsqrt1.py
+sumsqrt2.py
+pi.py
+pi_fast.py
+reshape.py
+pbc.py
+filter.py
+ising_np.py
+matrix.py
+markov.py
